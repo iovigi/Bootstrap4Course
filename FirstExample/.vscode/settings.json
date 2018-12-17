@@ -1,0 +1,6 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+}
